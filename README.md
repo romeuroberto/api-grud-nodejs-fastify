@@ -1,0 +1,1 @@
+# Projeto de API GRUD simples em nodeJS usando o Fastify
